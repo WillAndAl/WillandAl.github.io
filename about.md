@@ -12,7 +12,7 @@ permalink: /about/
 We are two friends from Seattle, WA! 
 
 ###### Will Hodge 
-is a junior at Tuft's University studying biopsychology and computer science. His passions include mental health, David's Tea, EDM trash, the ocean, and his dog Hannah. 
+is a junior at Tufts University studying biopsychology and computer science. His passions include mental health, David's Tea, EDM trash, the ocean, and his dog Hannah. 
 
 ###### Alice Tan
 is a junior at Pomona College studying computer science and economics. She enjoys rom coms, hand massages, cooking, hosting dinner parties, and sharing music with Willie.  
